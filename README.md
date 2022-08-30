@@ -5,8 +5,12 @@ Use python3, requests, beautifulsoup4 and jupyter.
 OS: macOS Monterey Version 12.5
 
 # Install modules
-1. python3 --version (mac has python3 by default.)
-2. python3 -m pip install beautifulsoup4 requests jupyter --user
+Mac has Python 3.8.9 by default. </br>
+
+```sh
+python3 --version
+python3 -m pip install beautifulsoup4 requests jupyter --user
+```
 
 # Run jupyter
 ```sh
