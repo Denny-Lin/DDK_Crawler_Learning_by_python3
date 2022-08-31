@@ -20,3 +20,4 @@ python3 -m pip install beautifulsoup4 requests jupyter --user
 # References
 1. https://steam.oxxostudio.tw/category/python/spider/beautiful-soup.html
 2. https://ithelp.ithome.com.tw/articles/10202121?sc=hot
+3. https://blog.csdn.net/qq_22690765/article/details/78248606
