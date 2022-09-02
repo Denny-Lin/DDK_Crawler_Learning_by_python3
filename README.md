@@ -22,7 +22,7 @@ We play the role of the client, so we should interact with the server. </br>
 ## How to get?
 ```python3
 import requests
-x = requests.get(url, data)
+x = requests.get(url, parameter)
 print(x.text)
 ```
 ```python3
@@ -36,7 +36,7 @@ print(data)
 ## How to post?
 ```python3
 import requests
-x = requests.post(url, data)
+x = requests.post(url, parameter)
 print(x.text)
 ```
 ```python3
