@@ -2,7 +2,8 @@
 Use python3, requests, beautifulsoup4 and jupyter.
 
 # Environment
-OS: macOS Monterey Version 12.5
+1. OS: macOS Monterey Version 12.5
+2. Browser: Google Chrome
 
 # Install modules
 Mac has Python 3.8.9 by default. </br>
