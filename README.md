@@ -56,3 +56,4 @@ Please refer to "References 5". </br>
 3. https://blog.csdn.net/qq_22690765/article/details/78248606
 4. https://blog.gtwang.org/programming/python-requests-module-tutorial/
 5. https://www.cc.ntu.edu.tw/chinese/epaper/0044/20180320_4408.html
+6. https://blog.toright.com/posts/1203/%E6%B7%BA%E8%AB%87-http-method%EF%BC%9A%E8%A1%A8%E5%96%AE%E4%B8%AD%E7%9A%84-get-%E8%88%87-post-%E6%9C%89%E4%BB%80%E9%BA%BC%E5%B7%AE%E5%88%A5%EF%BC%9F.html
