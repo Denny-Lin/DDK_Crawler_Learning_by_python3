@@ -48,7 +48,7 @@ data = s.recv(buffer)
 print(data)
 ```
 ## When to choose get or post?
-Please refer to "References 5". </br>
+Please refer to "References 5. 6.". </br>
 
 # References
 1. https://steam.oxxostudio.tw/category/python/spider/beautiful-soup.html
