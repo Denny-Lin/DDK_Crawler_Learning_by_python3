@@ -47,9 +47,12 @@ s.send(b"POST /xxx HTTP/1.1\r\n")
 data = s.recv(buffer)
 print(data)
 ```
+## When to choose get or post?
+Please refer to "References 5". </br>
 
 # References
 1. https://steam.oxxostudio.tw/category/python/spider/beautiful-soup.html
 2. https://ithelp.ithome.com.tw/articles/10202121?sc=hot
 3. https://blog.csdn.net/qq_22690765/article/details/78248606
 4. https://blog.gtwang.org/programming/python-requests-module-tutorial/
+5. https://www.cc.ntu.edu.tw/chinese/epaper/0044/20180320_4408.html
